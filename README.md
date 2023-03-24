@@ -1,5 +1,7 @@
 ## Preview
 
+![ezgif-4-13fc0dadac](https://user-images.githubusercontent.com/3766249/227656656-0bb0ef43-4481-4ea3-a027-49d34916f4db.gif)
+
 
 ![Studio_Project (3)](https://user-images.githubusercontent.com/3766249/227655877-6dc5e90d-cfd6-4a2e-94d2-1794b1c6be4f.gif)
 
@@ -7,9 +9,7 @@
 ![Studio_Project (1)](https://user-images.githubusercontent.com/3766249/227656051-c43f1aa0-12d2-4a2c-9c2f-a34d2b4175bf.gif)
 
 
-
 ![Studio_Project (2)](https://user-images.githubusercontent.com/3766249/227656077-d4fa66b8-4254-4b2e-8585-41a4173df8bf.gif)
-
 
 
 
