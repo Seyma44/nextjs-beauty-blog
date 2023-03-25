@@ -1,4 +1,4 @@
-## Preview of Next.js - GraphCMS - GraphQL Website 
+## Preview of Next.js - GraphCMS - GraphQL - Tailwind Website 
 
 ![ezgif-4-13fc0dadac](https://user-images.githubusercontent.com/3766249/227656656-0bb0ef43-4481-4ea3-a027-49d34916f4db.gif)
 
