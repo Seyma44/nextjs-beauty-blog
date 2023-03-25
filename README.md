@@ -1,4 +1,4 @@
-## Preview
+## Preview of Next.js - GraphCMS - GraphQL Website 
 
 ![ezgif-4-13fc0dadac](https://user-images.githubusercontent.com/3766249/227656656-0bb0ef43-4481-4ea3-a027-49d34916f4db.gif)
 
@@ -36,6 +36,10 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+## GraphCMS
+
+To connect to GraphCMS, you'll need to create an account and set up a new project. Once you've done that, you can use your project's API endpoint and token to access your data.
 
 ## Learn More
 
