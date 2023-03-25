@@ -41,6 +41,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 To connect to GraphCMS, you'll need to create an account and set up a new project. Once you've done that, you can use your project's API endpoint and token to access your data.
 
+== I did not delete the .env file for your study. == 
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
